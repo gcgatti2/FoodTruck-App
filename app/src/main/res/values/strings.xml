@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RedfinApp</string>
+    <string name="operating_hours">%s-%s</string>
+    <string name="toolbar_title_main">Food Trucks</string>
+    <string name="toolbar_action_map">Map</string>
+    <string name="toolbar_action_list">List</string>
+</resources>
